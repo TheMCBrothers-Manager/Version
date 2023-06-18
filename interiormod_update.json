@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod",
   "promos": {
+    "1.20.1-latest": "5.0.1",
+    "1.19.4-latest": "4.0.0",
     "1.19.2-latest": "3.0.0",
     "1.19.1-latest": "3.0.0",
     "1.19-latest": "3.0.0",
